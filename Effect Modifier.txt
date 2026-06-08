@@ -1,0 +1,6 @@
+Sex between animals or breed can influence the outcome of the predictor
+Example:A Male animal and a female animal been fed the same kg of feed 
+will have different Weight 
+
+Breed variesties will result to different outcome of Fur production 
+despite been subjected to same atmospheric condition 
